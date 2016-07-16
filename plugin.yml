@@ -1,0 +1,6 @@
+name: GoldenHead
+version: 2.0.0
+api: ["1.0.0","2.0.0"]
+author: Thunder33345
+description: 
+main: Thunder33345\GoldenHead\Loader
