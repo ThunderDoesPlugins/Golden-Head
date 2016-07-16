@@ -1,0 +1,85 @@
+{
+  "shape": {
+    "nugget": {
+      "enable": true,
+      "head": "1",
+      "head_meta": "3",
+      "gold": "1",
+      "meta": "2",
+      "name": "Golden Head (nugget)",
+      "amount": "1"
+    },
+    "ingot": {
+      "enable": true,
+      "head": "1",
+      "head_meta": "3",
+      "gold": "1",
+      "meta": "3",
+      "name": "Golden Head (ingot)",
+      "amount": "1"
+    },
+    "block": {
+      "enable": true,
+      "head": "1",
+      "head_meta": "3",
+      "gold": "1",
+      "meta": "4",
+      "name": "Golden Head (block)",
+      "amount": "1"
+    }
+  },
+  "effects": {
+    "nugget": [
+      {
+        "id": "22",
+        "time": "60",
+        "amp": "2"
+      },
+      {
+        "id": "10",
+        "time": "3",
+        "amp": "1"
+      }
+    ],
+    "ingot": [
+      {
+        "id": "22",
+        "time": "120",
+        "amp": "1"
+      },
+      {
+        "id": "10",
+        "time": "5",
+        "amp": "2"
+      }
+    ],
+    "block": [
+      {
+        "id": "22",
+        "time": "120",
+        "amp": "1"
+      },
+      {
+        "id": "21",
+        "time": "120",
+        "amp": "4"
+      },
+      {
+        "id": "10",
+        "time": "25",
+        "amp": "3"
+      },
+      {
+        "id": "12",
+        "time": "305",
+        "amp": "1"
+      },
+      {
+        "id": "11",
+        "time": "305",
+        "amp": "2"
+      }
+    ]
+  },
+  "reset": "false"
+}
